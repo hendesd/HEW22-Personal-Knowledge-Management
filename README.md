@@ -4,12 +4,10 @@
 
 ## [The Magical Number Seven, Plus or Minus Two](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two)
 
-## Atomic Notes and Zettelkasten
-[Evergreen (Atomic) Notes](https://notes.andymatuschak.org/)
+## [Evergreen (Atomic) Notes](https://notes.andymatuschak.org/)
 
-[Zettelkasten](https://zettelkasten.de/introduction/)
+## [Zettelkasten](https://zettelkasten.de/introduction/)
 
-## The Solution
-[LOCHBY Journal](https://www.lochby.com/collections/frontpage/products/field-journal) - SEAN10
+## [LOCHBY Journal](https://www.lochby.com/collections/frontpage/products/field-journal) - SEAN10
 
-[Obsidian](https://obsidian.md/)
+##[Obsidian](https://obsidian.md/)
