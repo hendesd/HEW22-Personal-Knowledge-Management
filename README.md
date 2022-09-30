@@ -10,4 +10,4 @@
 
 ## [LOCHBY Journal](https://www.lochby.com/collections/frontpage/products/field-journal) - SEAN10
 
-##[Obsidian](https://obsidian.md/)
+## [Obsidian](https://obsidian.md/)
