@@ -8,6 +8,6 @@
 
 ## [Zettelkasten](https://zettelkasten.de/introduction/)
 
-## [LOCHBY Journal](https://www.lochby.com/collections/frontpage/products/field-journal) - SEAN10
+## [LOCHBY Journal](https://www.lochby.com/collections/frontpage/products/field-journal) - SEAN10 (10% off)
 
 ## [Obsidian](https://obsidian.md/)
