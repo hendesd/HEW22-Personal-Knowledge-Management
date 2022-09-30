@@ -1,5 +1,9 @@
 # Resources
 
+## [Cognitive Load](https://en.wikipedia.org/wiki/Cognitive_load)
+
+## [The Magical Number Seven, Plus or Minus Two](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two)
+
 ## Atomic Notes and Zettelkasten
 [Evergreen (Atomic) Notes](https://notes.andymatuschak.org/)
 
